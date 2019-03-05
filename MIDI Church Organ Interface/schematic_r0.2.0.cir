@@ -1,0 +1,30 @@
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\schematic_r0.2.0.cir
+* File created from design "C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\schematic_r0.2.0.sch" using DesignSpark 21.0.4
+
+Keyboard_1_Multiplexer ???? 
+Keyboard_2_Multiplexer ???? 
+XPedalboard_Multiplexer Ped_Ch4 Ped_Ch6 Ped_Com Ped_Ch7 Ped_Ch5 GND GND GND Read_C Read_B Read_A Ped_Ch3 Ped_Ch0 Ped_Ch1 Ped_Ch2 +5V CD4051BE 
+Write_Multiplexer Write_Ch4 Write_Ch6 ???? CD4051BE 
+Keyboard_1_PD_Resistors ???? 
+Keyboard_2_PD_Resistors ???? 
+XPedalboard_PD_Resistors Ped_Ch4 Ped_Ch5 Ped_Ch6 Ped_Ch7 Ped_Ch2 Ped_Ch1 Ped_Ch0 Ped_Ch3 GND GND GND GND GND GND GND GND 4116R-1-103LF 
+Write_PD_Resistors Write_Ch0 Write_Ch1 ???? 4116R-1-103LF 
+Keyboard_1_Connector ???? 
+Keyboard_2_Connector ???? 
+XPedalboard_Connector Ped_Ch7 Write_Ch7 Ped_Ch6 Write_Ch6 Ped_Ch5 Write_Ch5 Ped_Ch4 Write_Ch4 Ped_Ch3 Write_Ch3 Ped_Ch2 Write_Ch2 Ped_Ch1 Write_Ch1 Ped_Ch0 Write_Ch0 30316-6002HB 
+MIDI_Jack unconnected1 GND unconnected2 MIDI_Power MIDI_Signal SDS-50J 
+R1 MIDI_Signal ArduinoTx ????  
+R2 MIDI_Power +5V ????  
+ExpPedTerm Analog1 unconnected3 Analog2 unconnected4 ????  
+XPOWER unconnected5 unconnected6 unconnected7 unconnected8 +5V GND unconnected9 unconnected10 90120-0768 
+DIGITAL_2 Ped_Com Key2_Com 90120-0768 
+DIGITAL_1 unconnected11 unconnected12 10pin header 
+ExpPedPower GND unconnected13 +5V unconnected14 ????  
+
+.tran 0 1m 0 20u
+.options Vntol=1u Abstol=1p Reltol=1m
+.temp 27
+
+
+
+.end

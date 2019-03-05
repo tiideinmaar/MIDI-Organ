@@ -1,0 +1,94 @@
+Design Status Report
+--------------------
+
+Report Written:     Monday, July 30, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\r0.3.0.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\layout_r0.3.0.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         7/30/2018 9:14:53 PM
+Editing Time:       6254 min
+Units:              thou (precision 2)
+
+
+Board Area
+==========
+
+    17500000.00 thou squared
+
+
+Board Extents
+=============
+
+    X:5000.00 thou Y:3500.00 thou
+Layers
+======
+
+Name              Type          Side   Net
+-------------------------------------------------
+Top Silkscreen    Silk Screen   Top
+Top Copper        Electrical    Top
+Documentation     Documentation Top
+Bottom Copper     Electrical    Bottom
+Bottom Silkscreen Silk Screen   Bottom
+
+Components
+==========
+
+Component                     Package                     Components Top Bottom Pins
+----------------------------------------------------------------------------------------------
+4116R-1-103LF                 DIP787W49P254L2197H469Q16N           5   5      0   80
+30316-6002HB                  3M-30316-6002HB                      4   4      0   64
+38700-7510 10P Terminal Block USER                                 1   1      0   10
+CD4051BE                      DIP254P762X508-16                    5   5      0   80
+ERG12SJ222                    RESAD1602W115L642D240                2   2      0    4
+SDS-50J                       SDS-50J                              1   1      0    9
+Teensy 3.2 Header             THROUGH-HOLE                         1   1      0   51
+----------------------------------------------------------------------------------------------
+Total:                                                            19  19      0  298
+----------------------------------------------------------------------------------------------
+
+Total Pin Count
+===============
+
+Free Pads:                             3
+Total PinCount:                        301
+
+
+Net List
+========
+
+Net Class Nets  Track Length Vias Connections Connection Length
+-------------------------------------------------------------------------
+Signal    48       165276.65  147           0              0.00
+Power     9          8649.90   12           0              0.00
+Ground    40        74627.39   70           0              0.00
+-------------------------------------------------------------------------
+Total:    97       248553.94  229           0              0.00
+-------------------------------------------------------------------------
+
+Drill List
+==========
+
+Drill Diameter  Number of holes
+---------------------------------
+16.00                       147
+24.00                        82
+27.09                        80
+39.76                        64
+43.31                        51
+44.00                        80
+51.18                         7
+53.15                         4
+76.00                        10
+94.49                         2
+155.00                        3
+---------------------------------
+Total:                      530
+---------------------------------
+Total number of free pads 3.
+
+
+
+
+End Of Report.

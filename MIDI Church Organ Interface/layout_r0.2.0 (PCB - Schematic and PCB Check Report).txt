@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, June 29, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\r0.2.0.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\layout_r0.2.0.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         6/29/2018 3:54:43 PM
+Editing Time:       6036 min
+Units:              thou (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "r0.2.0"
+===================================================================
+
+
+End Of Report.

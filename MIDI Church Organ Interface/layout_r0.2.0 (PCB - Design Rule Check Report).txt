@@ -1,0 +1,67 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Monday, July 02, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\r0.2.0.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\layout_r0.2.0.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         6/29/2018 3:57:11 PM
+Editing Time:       6038 min
+Units:              thou (precision 2)
+
+
+Results
+=======
+
+Drill Hole to Drill Hole error (D-D) at (10875.00 11675.00) on layer "[All]".
+Pad to Via error (P-V) at (10875.00 11675.00) on layer "[All]".
+    Via in pad Component Pad Pedalboard_Connector.2 (Net 'Write_Ch7').
+
+Number of errors found : 2
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

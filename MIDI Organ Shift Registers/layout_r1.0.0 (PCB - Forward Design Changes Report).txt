@@ -1,0 +1,326 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Tuesday, March 05, 2019
+Project Path:       C:\Users\tiideinmaar\Documents\GitHub\MIDI-Organ\MIDI Organ Shift Registers\r1.0.0.prj
+Design Path:        C:\Users\tiideinmaar\Documents\GitHub\MIDI-Organ\MIDI Organ Shift Registers\layout_r1.0.0.pcb
+Design Title:       
+Created:            3/5/2019 8:43:13 AM
+Last Saved:         3/5/2019 12:27:40 PM
+Editing Time:       281 min
+Units:              thou (precision 2)
+
+Disconnected pin "Keyboard_1_PD_Resistors.1" from net "Key1_Ch4".
+Disconnected pin "Keyboard_1_PD_Resistors.2" from net "Key1_Ch5".
+Disconnected pin "Keyboard_1_PD_Resistors.3" from net "Key1_Ch6".
+Disconnected pin "Keyboard_1_PD_Resistors.4" from net "Key1_Ch7".
+Disconnected pin "Keyboard_1_PD_Resistors.5" from net "Key1_Ch2".
+Disconnected pin "Keyboard_1_PD_Resistors.6" from net "Key1_Ch1".
+Disconnected pin "Keyboard_1_PD_Resistors.7" from net "Key1_Ch0".
+Disconnected pin "Keyboard_1_PD_Resistors.8" from net "Key1_Ch3".
+Disconnected pin "Keyboard_1_PD_Resistors.9" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.10" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.11" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.12" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.13" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.14" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.15" from net "GND".
+Disconnected pin "Keyboard_1_PD_Resistors.16" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.1" from net "Key2_Ch4".
+Disconnected pin "Keyboard_2_PD_Resistors.2" from net "Key2_Ch5".
+Disconnected pin "Keyboard_2_PD_Resistors.3" from net "Key2_Ch6".
+Disconnected pin "Keyboard_2_PD_Resistors.4" from net "Key2_Ch7".
+Disconnected pin "Keyboard_2_PD_Resistors.5" from net "Key2_Ch2".
+Disconnected pin "Keyboard_2_PD_Resistors.6" from net "Key2_Ch1".
+Disconnected pin "Keyboard_2_PD_Resistors.7" from net "Key2_Ch0".
+Disconnected pin "Keyboard_2_PD_Resistors.8" from net "Key2_Ch3".
+Disconnected pin "Keyboard_2_PD_Resistors.9" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.10" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.11" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.12" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.13" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.14" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.15" from net "GND".
+Disconnected pin "Keyboard_2_PD_Resistors.16" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.1" from net "Ped_Ch4".
+Disconnected pin "Pedalboard_PD_Resistors.2" from net "Ped_Ch5".
+Disconnected pin "Pedalboard_PD_Resistors.3" from net "Ped_Ch6".
+Disconnected pin "Pedalboard_PD_Resistors.4" from net "Ped_Ch7".
+Disconnected pin "Pedalboard_PD_Resistors.5" from net "Ped_Ch2".
+Disconnected pin "Pedalboard_PD_Resistors.6" from net "Ped_Ch1".
+Disconnected pin "Pedalboard_PD_Resistors.7" from net "Ped_Ch0".
+Disconnected pin "Pedalboard_PD_Resistors.8" from net "Ped_Ch3".
+Disconnected pin "Pedalboard_PD_Resistors.9" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.10" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.11" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.12" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.13" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.14" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.15" from net "GND".
+Disconnected pin "Pedalboard_PD_Resistors.16" from net "GND".
+Disconnected pin "Write_PD_Resistors.1" from net "Write_Ch0".
+Disconnected pin "Write_PD_Resistors.2" from net "Write_Ch1".
+Disconnected pin "Write_PD_Resistors.3" from net "Write_Ch2".
+Disconnected pin "Write_PD_Resistors.4" from net "Write_Ch3".
+Disconnected pin "Write_PD_Resistors.5" from net "Write_Ch4".
+Disconnected pin "Write_PD_Resistors.6" from net "Write_Ch5".
+Disconnected pin "Write_PD_Resistors.7" from net "Write_Ch6".
+Disconnected pin "Write_PD_Resistors.8" from net "Write_Ch7".
+Disconnected pin "Write_PD_Resistors.9" from net "GND".
+Disconnected pin "Write_PD_Resistors.10" from net "GND".
+Disconnected pin "Write_PD_Resistors.11" from net "GND".
+Disconnected pin "Write_PD_Resistors.12" from net "GND".
+Disconnected pin "Write_PD_Resistors.13" from net "GND".
+Disconnected pin "Write_PD_Resistors.14" from net "GND".
+Disconnected pin "Write_PD_Resistors.15" from net "GND".
+Disconnected pin "Write_PD_Resistors.16" from net "GND".
+Disconnected pin "Keyboard_1_Connector.1" from net "Key1_Ch7".
+Disconnected pin "Keyboard_1_Connector.2" from net "Write_Ch7".
+Disconnected pin "Keyboard_1_Connector.3" from net "Key1_Ch6".
+Disconnected pin "Keyboard_1_Connector.4" from net "Write_Ch6".
+Disconnected pin "Keyboard_1_Connector.5" from net "Key1_Ch5".
+Disconnected pin "Keyboard_1_Connector.6" from net "Write_Ch5".
+Disconnected pin "Keyboard_1_Connector.7" from net "Key1_Ch4".
+Disconnected pin "Keyboard_1_Connector.8" from net "Write_Ch4".
+Disconnected pin "Keyboard_1_Connector.9" from net "Key1_Ch3".
+Disconnected pin "Keyboard_1_Connector.10" from net "Write_Ch3".
+Disconnected pin "Keyboard_1_Connector.11" from net "Key1_Ch2".
+Disconnected pin "Keyboard_1_Connector.12" from net "Write_Ch2".
+Disconnected pin "Keyboard_1_Connector.13" from net "Key1_Ch1".
+Disconnected pin "Keyboard_1_Connector.14" from net "Write_Ch1".
+Disconnected pin "Keyboard_1_Connector.15" from net "Key1_Ch0".
+Disconnected pin "Keyboard_1_Connector.16" from net "Write_Ch0".
+Disconnected pin "Keyboard_2_Connector.1" from net "Key2_Ch7".
+Disconnected pin "Keyboard_2_Connector.2" from net "Write_Ch7".
+Disconnected pin "Keyboard_2_Connector.3" from net "Key2_Ch6".
+Disconnected pin "Keyboard_2_Connector.4" from net "Write_Ch6".
+Disconnected pin "Keyboard_2_Connector.5" from net "Key2_Ch5".
+Disconnected pin "Keyboard_2_Connector.6" from net "Write_Ch5".
+Disconnected pin "Keyboard_2_Connector.7" from net "Key2_Ch4".
+Disconnected pin "Keyboard_2_Connector.8" from net "Write_Ch4".
+Disconnected pin "Keyboard_2_Connector.9" from net "Key2_Ch3".
+Disconnected pin "Keyboard_2_Connector.10" from net "Write_Ch3".
+Disconnected pin "Keyboard_2_Connector.11" from net "Key2_Ch2".
+Disconnected pin "Keyboard_2_Connector.12" from net "Write_Ch2".
+Disconnected pin "Keyboard_2_Connector.13" from net "Key2_Ch1".
+Disconnected pin "Keyboard_2_Connector.14" from net "Write_Ch1".
+Disconnected pin "Keyboard_2_Connector.15" from net "Key2_Ch0".
+Disconnected pin "Keyboard_2_Connector.16" from net "Write_Ch0".
+Disconnected pin "Pedalboard_Connector.1" from net "Ped_Ch7".
+Disconnected pin "Pedalboard_Connector.2" from net "Write_Ch7".
+Disconnected pin "Pedalboard_Connector.3" from net "Ped_Ch6".
+Disconnected pin "Pedalboard_Connector.4" from net "Write_Ch6".
+Disconnected pin "Pedalboard_Connector.5" from net "Ped_Ch5".
+Disconnected pin "Pedalboard_Connector.6" from net "Write_Ch5".
+Disconnected pin "Pedalboard_Connector.7" from net "Ped_Ch4".
+Disconnected pin "Pedalboard_Connector.8" from net "Write_Ch4".
+Disconnected pin "Pedalboard_Connector.9" from net "Ped_Ch3".
+Disconnected pin "Pedalboard_Connector.10" from net "Write_Ch3".
+Disconnected pin "Pedalboard_Connector.11" from net "Ped_Ch2".
+Disconnected pin "Pedalboard_Connector.12" from net "Write_Ch2".
+Disconnected pin "Pedalboard_Connector.13" from net "Ped_Ch1".
+Disconnected pin "Pedalboard_Connector.14" from net "Write_Ch1".
+Disconnected pin "Pedalboard_Connector.15" from net "Ped_Ch0".
+Disconnected pin "Pedalboard_Connector.16" from net "Write_Ch0".
+Disconnected pin "Stoptab_Connector.1" from net "Stoptab_Ch7".
+Disconnected pin "Stoptab_Connector.2" from net "Write_Ch7".
+Disconnected pin "Stoptab_Connector.3" from net "Stoptab_Ch6".
+Disconnected pin "Stoptab_Connector.4" from net "Write_Ch6".
+Disconnected pin "Stoptab_Connector.5" from net "Stoptab_Ch5".
+Disconnected pin "Stoptab_Connector.6" from net "Write_Ch5".
+Disconnected pin "Stoptab_Connector.7" from net "Stoptab_Ch4".
+Disconnected pin "Stoptab_Connector.8" from net "Write_Ch4".
+Disconnected pin "Stoptab_Connector.9" from net "Stoptab_Ch3".
+Disconnected pin "Stoptab_Connector.10" from net "Write_Ch3".
+Disconnected pin "Stoptab_Connector.11" from net "Stoptab_Ch2".
+Disconnected pin "Stoptab_Connector.12" from net "Write_Ch2".
+Disconnected pin "Stoptab_Connector.13" from net "Stoptab_Ch1".
+Disconnected pin "Stoptab_Connector.14" from net "Write_Ch1".
+Disconnected pin "Stoptab_Connector.15" from net "Stoptab_Ch0".
+Disconnected pin "Stoptab_Connector.16" from net "Write_Ch0".
+Disconnected pin "Stoptab_PD_Resistors.1" from net "Stoptab_Ch4".
+Disconnected pin "Stoptab_PD_Resistors.2" from net "Stoptab_Ch5".
+Disconnected pin "Stoptab_PD_Resistors.3" from net "Stoptab_Ch6".
+Disconnected pin "Stoptab_PD_Resistors.4" from net "Stoptab_Ch7".
+Disconnected pin "Stoptab_PD_Resistors.5" from net "Stoptab_Ch2".
+Disconnected pin "Stoptab_PD_Resistors.6" from net "Stoptab_Ch1".
+Disconnected pin "Stoptab_PD_Resistors.7" from net "Stoptab_Ch0".
+Disconnected pin "Stoptab_PD_Resistors.8" from net "Stoptab_Ch3".
+Disconnected pin "Stoptab_PD_Resistors.9" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.10" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.11" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.12" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.13" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.14" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.15" from net "GND".
+Disconnected pin "Stoptab_PD_Resistors.16" from net "GND".
+
+Deleted component reference "Keyboard_1_PD_Resistors".
+Deleted component reference "Keyboard_2_PD_Resistors".
+Deleted component reference "Pedalboard_PD_Resistors".
+Deleted component reference "Write_PD_Resistors".
+Deleted component reference "Keyboard_1_Connector".
+Deleted component reference "Keyboard_2_Connector".
+Deleted component reference "Pedalboard_Connector".
+Deleted component reference "Stoptab_Connector".
+Deleted component reference "Stoptab_PD_Resistors".
+
+Added net "N0016".
+Added net "N0019".
+Added net "N0020".
+Added net "N0021".
+Added net "N0022".
+Added net "N0023".
+Added net "N0024".
+Added net "N0025".
+Added net "N0026".
+Added net "N0027".
+Added net "N0028".
+Added net "N0029".
+Added net "N0030".
+Added net "N0031".
+Added net "N0032".
+Added net "N0048".
+Added net "N0049".
+Added net "N0051".
+Added net "N0067".
+
+Added component reference "ReadReg1" of component "SN74HC165N", package "DIP254P762X508-16".
+Added component reference "ReadReg2" of component "SN74HC165N", package "DIP254P762X508-16".
+Added component reference "WriteReg1" of component "SN74HC595N", package "DIP794W53P254L1930H508Q16N".
+Added component reference "WriteReg2" of component "SN74HC595N", package "DIP794W53P254L1930H508Q16N".
+Added component reference "J1" of component "30316-6002HB", package "3M-30316-6002HB".
+Added component reference "J2" of component "30316-6002HB", package "3M-30316-6002HB".
+Added component reference "J3" of component "30316-6002HB", package "3M-30316-6002HB".
+Added component reference "J4" of component "30316-6002HB", package "3M-30316-6002HB".
+Added component reference "J5" of component "30316-6002HB", package "3M-30316-6002HB".
+Added component reference "J6" of component "30316-6002HB", package "3M-30316-6002HB".
+
+Connected pin "ReadReg1.4" to net "N0067".
+Connected pin "ReadReg1.5" to net "N0048".
+Connected pin "ReadReg1.6" to net "N0032".
+Connected pin "ReadReg1.8" to net "GND".
+Connected pin "ReadReg1.16" to net "+3.3V".
+Connected pin "ReadReg2.8" to net "GND".
+Connected pin "ReadReg2.16" to net "+3.3V".
+Connected pin "WriteReg1.1" to net "N0016".
+Connected pin "WriteReg1.2" to net "N0051".
+Connected pin "WriteReg1.3" to net "N0019".
+Connected pin "WriteReg1.4" to net "N0020".
+Connected pin "WriteReg1.5" to net "N0021".
+Connected pin "WriteReg1.6" to net "N0022".
+Connected pin "WriteReg1.7" to net "N0023".
+Connected pin "WriteReg1.8" to net "GND".
+Connected pin "WriteReg1.16" to net "+3.3V".
+Connected pin "WriteReg1.15" to net "N0049".
+Connected pin "WriteReg1.13" to net "GND".
+Connected pin "WriteReg2.1" to net "N0030".
+Connected pin "WriteReg2.2" to net "N0029".
+Connected pin "WriteReg2.3" to net "N0028".
+Connected pin "WriteReg2.4" to net "N0027".
+Connected pin "WriteReg2.5" to net "N0026".
+Connected pin "WriteReg2.6" to net "N0025".
+Connected pin "WriteReg2.7" to net "N0024".
+Connected pin "WriteReg2.8" to net "GND".
+Connected pin "WriteReg2.16" to net "+3.3V".
+Connected pin "WriteReg2.15" to net "N0031".
+Connected pin "WriteReg2.13" to net "GND".
+Connected pin "J1.1" to net "N0032".
+Connected pin "J1.2" to net "N0049".
+Connected pin "J1.3" to net "N0032".
+Connected pin "J1.4" to net "N0016".
+Connected pin "J1.5" to net "N0032".
+Connected pin "J1.6" to net "N0051".
+Connected pin "J1.7" to net "N0032".
+Connected pin "J1.8" to net "N0019".
+Connected pin "J1.9" to net "N0032".
+Connected pin "J1.10" to net "N0020".
+Connected pin "J1.11" to net "N0032".
+Connected pin "J1.12" to net "N0021".
+Connected pin "J1.13" to net "N0032".
+Connected pin "J1.14" to net "N0022".
+Connected pin "J1.15" to net "N0032".
+Connected pin "J1.16" to net "N0023".
+Connected pin "J2.1" to net "N0032".
+Connected pin "J2.2" to net "N0031".
+Connected pin "J2.3" to net "N0032".
+Connected pin "J2.4" to net "N0030".
+Connected pin "J2.5" to net "N0032".
+Connected pin "J2.6" to net "N0029".
+Connected pin "J2.7" to net "N0032".
+Connected pin "J2.8" to net "N0028".
+Connected pin "J2.9" to net "N0032".
+Connected pin "J2.10" to net "N0027".
+Connected pin "J2.11" to net "N0032".
+Connected pin "J2.12" to net "N0026".
+Connected pin "J2.13" to net "N0032".
+Connected pin "J2.14" to net "N0025".
+Connected pin "J2.15" to net "N0032".
+Connected pin "J2.16" to net "N0024".
+Connected pin "J3.1" to net "N0048".
+Connected pin "J3.2" to net "N0049".
+Connected pin "J3.3" to net "N0048".
+Connected pin "J3.4" to net "N0016".
+Connected pin "J3.5" to net "N0048".
+Connected pin "J3.6" to net "N0051".
+Connected pin "J3.7" to net "N0048".
+Connected pin "J3.8" to net "N0019".
+Connected pin "J3.9" to net "N0048".
+Connected pin "J3.10" to net "N0020".
+Connected pin "J3.11" to net "N0048".
+Connected pin "J3.12" to net "N0021".
+Connected pin "J3.13" to net "N0048".
+Connected pin "J3.14" to net "N0022".
+Connected pin "J3.15" to net "N0048".
+Connected pin "J3.16" to net "N0023".
+Connected pin "J4.1" to net "N0048".
+Connected pin "J4.2" to net "N0031".
+Connected pin "J4.3" to net "N0048".
+Connected pin "J4.4" to net "N0030".
+Connected pin "J4.5" to net "N0048".
+Connected pin "J4.6" to net "N0029".
+Connected pin "J4.7" to net "N0048".
+Connected pin "J4.8" to net "N0028".
+Connected pin "J4.9" to net "N0048".
+Connected pin "J4.10" to net "N0027".
+Connected pin "J4.11" to net "N0048".
+Connected pin "J4.12" to net "N0026".
+Connected pin "J4.13" to net "N0048".
+Connected pin "J4.14" to net "N0025".
+Connected pin "J4.15" to net "N0048".
+Connected pin "J4.16" to net "N0024".
+Connected pin "J5.1" to net "N0067".
+Connected pin "J5.2" to net "N0049".
+Connected pin "J5.3" to net "N0067".
+Connected pin "J5.4" to net "N0016".
+Connected pin "J5.5" to net "N0067".
+Connected pin "J5.6" to net "N0051".
+Connected pin "J5.7" to net "N0067".
+Connected pin "J5.8" to net "N0019".
+Connected pin "J5.9" to net "N0067".
+Connected pin "J5.10" to net "N0020".
+Connected pin "J5.11" to net "N0067".
+Connected pin "J5.12" to net "N0021".
+Connected pin "J5.13" to net "N0067".
+Connected pin "J5.14" to net "N0022".
+Connected pin "J5.15" to net "N0067".
+Connected pin "J5.16" to net "N0023".
+Connected pin "J6.1" to net "N0067".
+Connected pin "J6.2" to net "N0031".
+Connected pin "J6.3" to net "N0067".
+Connected pin "J6.4" to net "N0030".
+Connected pin "J6.5" to net "N0067".
+Connected pin "J6.6" to net "N0029".
+Connected pin "J6.7" to net "N0067".
+Connected pin "J6.8" to net "N0028".
+Connected pin "J6.9" to net "N0067".
+Connected pin "J6.10" to net "N0027".
+Connected pin "J6.11" to net "N0067".
+Connected pin "J6.12" to net "N0026".
+Connected pin "J6.13" to net "N0067".
+Connected pin "J6.14" to net "N0025".
+Connected pin "J6.15" to net "N0067".
+Connected pin "J6.16" to net "N0024".
+
+
+End Of Report.

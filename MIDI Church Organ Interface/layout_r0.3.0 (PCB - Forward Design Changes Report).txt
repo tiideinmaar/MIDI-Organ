@@ -1,0 +1,26 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Monday, July 30, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\r0.3.0.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Church Organ Interface\layout_r0.3.0.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         7/30/2018 9:32:44 PM
+Editing Time:       6265 min
+Units:              thou (precision 2)
+
+Net "Stoptab_Ch4" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch6" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch7" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch5" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch0" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch3" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch1" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Ch2" changed from net class "Ground" to net class "Signal".
+Net "Stoptab_Com" changed from net class "Ground" to net class "Signal".
+Net "Analog0" changed from net class "Ground" to net class "Signal".
+Net "Analog7" changed from net class "Ground" to net class "Signal".
+
+
+End Of Report.

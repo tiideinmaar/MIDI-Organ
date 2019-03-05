@@ -1,0 +1,352 @@
+Net "+3.3V"
+Keyboard_1_Multiplexer.16
+Keyboard_2_Multiplexer.16
+Pedalboard_Multiplexer.16
+Write_Multiplexer.16
+R2.2
+Teensy1.30
+Stoptab_Multiplexer.16
+Term1.9
+
+Net "Arduino Tx"
+R1.2
+Teensy1.3
+
+Net "GND"
+Keyboard_1_Multiplexer.6
+Keyboard_2_Multiplexer.6
+Pedalboard_Multiplexer.6
+Write_Multiplexer.6
+Write_Multiplexer.7
+Write_Multiplexer.8
+Keyboard_1_PD_Resistors.9
+Keyboard_1_PD_Resistors.10
+Keyboard_2_PD_Resistors.9
+Keyboard_2_PD_Resistors.10
+Pedalboard_PD_Resistors.9
+Pedalboard_PD_Resistors.10
+Write_PD_Resistors.9
+MIDI_Jack.2
+Teensy1.31
+Stoptab_PD_Resistors.16
+Stoptab_PD_Resistors.9
+Stoptab_Multiplexer.6
+Term1.10
+
+Net "Key1_Ch0"
+Keyboard_1_PD_Resistors.7
+Keyboard_1_Multiplexer.13
+Keyboard_1_Connector.15
+
+Net "Key1_Ch1"
+Keyboard_1_PD_Resistors.6
+Keyboard_1_Multiplexer.14
+Keyboard_1_Connector.13
+
+Net "Key1_Ch2"
+Keyboard_1_PD_Resistors.5
+Keyboard_1_Multiplexer.15
+Keyboard_1_Connector.11
+
+Net "Key1_Ch3"
+Keyboard_1_PD_Resistors.8
+Keyboard_1_Multiplexer.12
+Keyboard_1_Connector.9
+
+Net "Key1_Ch4"
+Keyboard_1_Multiplexer.1
+Keyboard_1_PD_Resistors.1
+Keyboard_1_Connector.7
+
+Net "Key1_Ch5"
+Keyboard_1_Multiplexer.5
+Keyboard_1_PD_Resistors.2
+Keyboard_1_Connector.5
+
+Net "Key1_Ch6"
+Keyboard_1_Multiplexer.2
+Keyboard_1_PD_Resistors.3
+Keyboard_1_Connector.3
+
+Net "Key1_Ch7"
+Keyboard_1_Multiplexer.4
+Keyboard_1_PD_Resistors.4
+Keyboard_1_Connector.1
+
+Net "Key1_Com"
+Keyboard_1_Multiplexer.3
+Teensy1.8
+
+Net "Key2_Ch0"
+Keyboard_2_PD_Resistors.7
+Keyboard_2_Multiplexer.13
+Keyboard_2_Connector.15
+
+Net "Key2_Ch1"
+Keyboard_2_PD_Resistors.6
+Keyboard_2_Multiplexer.14
+Keyboard_2_Connector.13
+
+Net "Key2_Ch2"
+Keyboard_2_PD_Resistors.5
+Keyboard_2_Multiplexer.15
+Keyboard_2_Connector.11
+
+Net "Key2_Ch3"
+Keyboard_2_PD_Resistors.8
+Keyboard_2_Multiplexer.12
+Keyboard_2_Connector.9
+
+Net "Key2_Ch4"
+Keyboard_2_Multiplexer.1
+Keyboard_2_PD_Resistors.1
+Keyboard_2_Connector.7
+
+Net "Key2_Ch5"
+Keyboard_2_Multiplexer.5
+Keyboard_2_PD_Resistors.2
+Keyboard_2_Connector.5
+
+Net "Key2_Ch6"
+Keyboard_2_Multiplexer.2
+Keyboard_2_PD_Resistors.3
+Keyboard_2_Connector.3
+
+Net "Key2_Ch7"
+Keyboard_2_Multiplexer.4
+Keyboard_2_PD_Resistors.4
+Keyboard_2_Connector.1
+
+Net "Key2_Com"
+Keyboard_2_Multiplexer.3
+Teensy1.9
+
+Net "MIDI_Power"
+MIDI_Jack.4
+R2.1
+
+Net "MIDI_Signal"
+MIDI_Jack.5
+R1.1
+
+Net "N0414"
+Stoptab_Connector.7
+Stoptab_PD_Resistors.1
+Stoptab_Multiplexer.1
+
+Net "N0416"
+Stoptab_Connector.3
+Stoptab_PD_Resistors.3
+Stoptab_Multiplexer.2
+
+Net "N0418"
+Stoptab_Connector.1
+Stoptab_PD_Resistors.4
+Stoptab_Multiplexer.4
+
+Net "N0419"
+Stoptab_Connector.5
+Stoptab_PD_Resistors.2
+Stoptab_Multiplexer.5
+
+Net "N0425"
+Stoptab_Connector.15
+Stoptab_PD_Resistors.7
+Stoptab_Multiplexer.13
+
+Net "N0427"
+Stoptab_Connector.9
+Stoptab_PD_Resistors.8
+Stoptab_Multiplexer.12
+
+Net "N0428"
+Stoptab_Connector.13
+Stoptab_PD_Resistors.6
+Stoptab_Multiplexer.14
+
+Net "N0429"
+Stoptab_Connector.11
+Stoptab_PD_Resistors.5
+Stoptab_Multiplexer.15
+
+Net "N0451"
+Teensy1.7
+Stoptab_Multiplexer.3
+
+Net "N0453"
+Teensy1.16
+Term1.1
+
+Net "N0454"
+Teensy1.17
+Term1.2
+
+Net "N0455"
+Teensy1.18
+Term1.3
+
+Net "N0456"
+Teensy1.19
+Term1.4
+
+Net "N0457"
+Teensy1.20
+Term1.5
+
+Net "N0458"
+Teensy1.21
+Term1.6
+
+Net "N0463"
+Teensy1.22
+Term1.7
+
+Net "N0464"
+Teensy1.23
+Term1.8
+
+Net "Ped_Ch0"
+Pedalboard_PD_Resistors.7
+Pedalboard_Multiplexer.13
+Pedalboard_Connector.15
+
+Net "Ped_Ch1"
+Pedalboard_PD_Resistors.6
+Pedalboard_Multiplexer.14
+Pedalboard_Connector.13
+
+Net "Ped_Ch2"
+Pedalboard_PD_Resistors.5
+Pedalboard_Multiplexer.15
+Pedalboard_Connector.11
+
+Net "Ped_Ch3"
+Pedalboard_PD_Resistors.8
+Pedalboard_Multiplexer.12
+Pedalboard_Connector.9
+
+Net "Ped_Ch4"
+Pedalboard_Multiplexer.1
+Pedalboard_PD_Resistors.1
+Pedalboard_Connector.7
+
+Net "Ped_Ch5"
+Pedalboard_Multiplexer.5
+Pedalboard_PD_Resistors.2
+Pedalboard_Connector.5
+
+Net "Ped_Ch6"
+Pedalboard_Multiplexer.2
+Pedalboard_PD_Resistors.3
+Pedalboard_Connector.3
+
+Net "Ped_Ch7"
+Pedalboard_Multiplexer.4
+Pedalboard_PD_Resistors.4
+Pedalboard_Connector.1
+
+Net "Ped_Com"
+Pedalboard_Multiplexer.3
+Teensy1.10
+
+Net "Read_A"
+Keyboard_1_Multiplexer.11
+Keyboard_2_Multiplexer.11
+Pedalboard_Multiplexer.11
+Teensy1.4
+Stoptab_Multiplexer.11
+
+Net "Read_B"
+Keyboard_1_Multiplexer.10
+Keyboard_2_Multiplexer.10
+Pedalboard_Multiplexer.10
+Teensy1.5
+Stoptab_Multiplexer.10
+
+Net "Read_C"
+Keyboard_1_Multiplexer.9
+Keyboard_2_Multiplexer.9
+Pedalboard_Multiplexer.9
+Teensy1.6
+Stoptab_Multiplexer.9
+
+Net "Write_A"
+Write_Multiplexer.11
+Teensy1.11
+
+Net "Write_B"
+Write_Multiplexer.10
+Teensy1.12
+
+Net "Write_C"
+Write_Multiplexer.9
+Teensy1.13
+
+Net "Write_Ch0"
+Keyboard_1_Connector.16
+Keyboard_2_Connector.16
+Pedalboard_Connector.16
+Write_Multiplexer.13
+Write_PD_Resistors.1
+Stoptab_Connector.16
+
+Net "Write_Ch1"
+Write_Multiplexer.14
+Write_PD_Resistors.2
+Keyboard_1_Connector.14
+Keyboard_2_Connector.14
+Pedalboard_Connector.14
+Stoptab_Connector.14
+
+Net "Write_Ch2"
+Write_Multiplexer.15
+Write_PD_Resistors.3
+Keyboard_1_Connector.12
+Keyboard_2_Connector.12
+Pedalboard_Connector.12
+Stoptab_Connector.12
+
+Net "Write_Ch3"
+Write_Multiplexer.12
+Write_PD_Resistors.4
+Keyboard_1_Connector.10
+Keyboard_2_Connector.10
+Pedalboard_Connector.10
+Stoptab_Connector.10
+
+Net "Write_Ch4"
+Write_Multiplexer.1
+Write_PD_Resistors.5
+Keyboard_1_Connector.8
+Keyboard_2_Connector.8
+Pedalboard_Connector.8
+Stoptab_Connector.8
+
+Net "Write_Ch5"
+Write_Multiplexer.5
+Write_PD_Resistors.6
+Keyboard_1_Connector.6
+Keyboard_2_Connector.6
+Pedalboard_Connector.6
+Stoptab_Connector.6
+
+Net "Write_Ch6"
+Write_Multiplexer.2
+Write_PD_Resistors.7
+Keyboard_1_Connector.4
+Keyboard_2_Connector.4
+Pedalboard_Connector.4
+Stoptab_Connector.4
+
+Net "Write_Ch7"
+Write_Multiplexer.4
+Write_PD_Resistors.8
+Keyboard_1_Connector.2
+Keyboard_2_Connector.2
+Pedalboard_Connector.2
+Stoptab_Connector.2
+
+Net "Write_Com"
+Write_Multiplexer.3
+Teensy1.14
+
