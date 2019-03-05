@@ -1,0 +1,69 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, February 16, 2018
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ\Keyboard Matrix Scanner Arduino.pcb
+Design Title:       
+Created:            2/15/2018 6:46:10 PM
+Last Saved:         2/16/2018 12:25:59 AM
+Editing Time:       323 min
+Units:              cm (precision 2)
+
+Disconnected pin "WriteMultiplexer-2" from net "N0536".
+Disconnected pin "Wmult7-1" from net "N0536".
+Disconnected pin "PedalboardMatrix7-1" from net "N0536".
+Disconnected pin "PedalboardMatrix7-2" from net "N0536".
+Disconnected pin "PedalboardMatrix7-3" from net "N0536".
+Disconnected pin "PedalboardMatrix7-4" from net "N0536".
+Disconnected pin "PedalboardMatrix7-5" from net "N0536".
+Disconnected pin "PedalboardMatrix7-6" from net "N0536".
+Disconnected pin "PedalboardMatrix7-7" from net "N0536".
+Disconnected pin "PedalboardMatrix7-8" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-1" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-2" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-3" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-4" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-5" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-6" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-7" from net "N0536".
+Disconnected pin "Keyboard2Matrix7-8" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-1" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-2" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-3" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-4" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-5" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-6" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-7" from net "N0536".
+Disconnected pin "Keyboard1Matrix7-8" from net "N0536".
+
+Added net "N0718".
+
+Connected pin "WriteMultiplexer-2" to net "N0718".
+Connected pin "Wmult7-1" to net "N0718".
+Connected pin "PedalboardMatrix7-1" to net "N0718".
+Connected pin "PedalboardMatrix7-2" to net "N0718".
+Connected pin "PedalboardMatrix7-3" to net "N0718".
+Connected pin "PedalboardMatrix7-4" to net "N0718".
+Connected pin "PedalboardMatrix7-5" to net "N0718".
+Connected pin "PedalboardMatrix7-6" to net "N0718".
+Connected pin "PedalboardMatrix7-7" to net "N0718".
+Connected pin "PedalboardMatrix7-8" to net "N0718".
+Connected pin "Keyboard2Matrix7-1" to net "N0718".
+Connected pin "Keyboard2Matrix7-2" to net "N0718".
+Connected pin "Keyboard2Matrix7-3" to net "N0718".
+Connected pin "Keyboard2Matrix7-4" to net "N0718".
+Connected pin "Keyboard2Matrix7-5" to net "N0718".
+Connected pin "Keyboard2Matrix7-6" to net "N0718".
+Connected pin "Keyboard2Matrix7-7" to net "N0718".
+Connected pin "Keyboard2Matrix7-8" to net "N0718".
+Connected pin "Keyboard1Matrix7-1" to net "N0718".
+Connected pin "Keyboard1Matrix7-2" to net "N0718".
+Connected pin "Keyboard1Matrix7-3" to net "N0718".
+Connected pin "Keyboard1Matrix7-4" to net "N0718".
+Connected pin "Keyboard1Matrix7-5" to net "N0718".
+Connected pin "Keyboard1Matrix7-6" to net "N0718".
+Connected pin "Keyboard1Matrix7-7" to net "N0718".
+Connected pin "Keyboard1Matrix7-8" to net "N0718".
+
+
+End Of Report.

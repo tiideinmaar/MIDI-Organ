@@ -1,0 +1,280 @@
+Plot Report
+-----------
+
+Report Written:     Thursday, June 21, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         6/21/2018 12:00:18 PM
+Editing Time:       4542 min
+Units:              thou (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Leading zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 6.00
+    D11    Round 5.00
+    D12    Round 7.87
+    D13    Round 3.94
+    D15    Round 10.00
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D15    Round 10.00
+    D16    Square 66.00
+    D17    Round 66.00
+    D18    Square 42.83
+    D19    Round 42.83
+    D70    Square 59.45
+    D71    Round 59.45
+    D23    Round 60.00
+    D24    Round 32.00
+    D25    Round 40.00
+    D82    Round 76.77
+    D83    Round 141.73
+    D84    Round 79.72
+    D85    Square 64.96
+    D86    Round 64.96
+    D87    Round 8.00
+    D88    Round 15.00
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D27    Square 76.00
+    D28    Round 76.00
+    D29    Square 52.83
+    D72    Round 52.83
+    D73    Square 69.45
+    D74    Round 69.45
+    D78    Round 70.00
+    D89    Round 86.77
+    D90    Round 151.73
+    D91    Round 89.72
+    D92    Square 74.96
+    D93    Round 74.96
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D80    Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Bottom Copper.gbr
+
+    Layers:
+    ------------------
+    Bottom Copper
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D16    Square 66.00
+    D17    Round 66.00
+    D18    Square 42.83
+    D19    Round 42.83
+    D70    Square 59.45
+    D71    Round 59.45
+    D23    Round 60.00
+    D24    Round 32.00
+    D25    Round 40.00
+    D82    Round 76.77
+    D83    Round 141.73
+    D84    Round 79.72
+    D85    Square 64.96
+    D86    Round 64.96
+    D87    Round 8.00
+    D88    Round 15.00
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D27    Square 76.00
+    D28    Round 76.00
+    D29    Square 52.83
+    D72    Round 52.83
+    D73    Square 69.45
+    D74    Round 69.45
+    D78    Round 70.00
+    D89    Round 86.77
+    D90    Round 151.73
+    D91    Round 89.72
+    D92    Square 74.96
+    D93    Round 74.96
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Drill Data - [Through Hole].drl
+
+    Output:
+    -----------------------------
+    Plated Round Drill Holes
+    Unplated Round Drill Holes
+    Plated Slots
+    Unplated Slots
+    Plated Board Outlines
+    Unplated Board Outlines
+
+    Tool  Size           Count   ID  (Plated/Unplated)
+    -----------------------------------------------------------
+    T001  0.01600 inches 90    H
+    T002  0.02400 inches 19    I
+    T003  0.02500 inches 1
+    T004  0.02709 inches 64    K
+    T005  0.03000 inches 12    F
+    T006  0.03976 inches 48    L
+    T007  0.04331 inches 32    P
+    T008  0.04400 inches 64    J
+    T009  0.05118 inches 7     M
+    T010  0.05315 inches 4     O
+    T011  0.09449 inches 2     N
+    -----------------------------------------------------------
+    Total                343
+    -----------------------------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    30    Y      100  Round F
+    16    Y      100  Round H
+    24    Y      100  Round I
+    44    Y      100  Round J
+    27    Y      100  Round K
+    40    Y      100  Round L
+    51    Y      100  Round M
+    94    Y      100  Round N
+    53    Y      100  Round O
+    43    Y      100  Round P
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D81    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager - Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+
+End Of Report.

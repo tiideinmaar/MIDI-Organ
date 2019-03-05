@@ -1,0 +1,277 @@
+Net "+5V"
+R2.2
+ArdR1.26
+Expression_Pedal_Terminal.5
+Keyboard_1_Multiplexer.9
+Keyboard_2_Multiplexer.9
+Pedalboard_Multiplexer.9
+Write_Multiplexer.9
+
+Net "Arduino Tx"
+R1.2
+ArdR1.2
+
+Net "GND"
+Keyboard_1_Multiplexer.6
+Keyboard_2_Multiplexer.6
+Pedalboard_Multiplexer.6
+Write_Multiplexer.6
+Write_Multiplexer.7
+Write_Multiplexer.8
+Keyboard_1_PD_Resistors.9
+Keyboard_1_PD_Resistors.10
+Keyboard_2_PD_Resistors.9
+Keyboard_2_PD_Resistors.10
+Pedalboard_PD_Resistors.9
+Pedalboard_PD_Resistors.10
+Write_PD_Resistors.9
+MIDI_Jack.2
+ArdR1.25
+Expression_Pedal_Terminal.6
+
+Net "Key1_Ch0"
+Keyboard_1_PD_Resistors.7
+Keyboard_1_Connector.1
+Keyboard_1_Multiplexer.12
+
+Net "Key1_Ch1"
+Keyboard_1_PD_Resistors.6
+Keyboard_1_Connector.2
+Keyboard_1_Multiplexer.11
+
+Net "Key1_Ch2"
+Keyboard_1_PD_Resistors.5
+Keyboard_1_Connector.3
+Keyboard_1_Multiplexer.10
+
+Net "Key1_Ch3"
+Keyboard_1_PD_Resistors.8
+Keyboard_1_Connector.4
+Keyboard_1_Multiplexer.13
+
+Net "Key1_Ch4"
+Keyboard_1_Multiplexer.1
+Keyboard_1_PD_Resistors.1
+Keyboard_1_Connector.5
+
+Net "Key1_Ch5"
+Keyboard_1_Multiplexer.5
+Keyboard_1_PD_Resistors.4
+Keyboard_1_Connector.6
+
+Net "Key1_Ch6"
+Keyboard_1_Multiplexer.2
+Keyboard_1_PD_Resistors.2
+Keyboard_1_Connector.7
+
+Net "Key1_Ch7"
+Keyboard_1_Multiplexer.4
+Keyboard_1_PD_Resistors.3
+Keyboard_1_Connector.8
+
+Net "Key1_Com"
+Keyboard_1_Multiplexer.3
+ArdR1.6
+
+Net "Key2_Ch0"
+Keyboard_2_PD_Resistors.7
+Keyboard_2_Connector.1
+Keyboard_2_Multiplexer.12
+
+Net "Key2_Ch1"
+Keyboard_2_PD_Resistors.6
+Keyboard_2_Connector.2
+Keyboard_2_Multiplexer.11
+
+Net "Key2_Ch2"
+Keyboard_2_PD_Resistors.5
+Keyboard_2_Connector.3
+Keyboard_2_Multiplexer.10
+
+Net "Key2_Ch3"
+Keyboard_2_PD_Resistors.8
+Keyboard_2_Connector.4
+Keyboard_2_Multiplexer.13
+
+Net "Key2_Ch4"
+Keyboard_2_Multiplexer.1
+Keyboard_2_PD_Resistors.1
+Keyboard_2_Connector.5
+
+Net "Key2_Ch5"
+Keyboard_2_Multiplexer.5
+Keyboard_2_PD_Resistors.4
+Keyboard_2_Connector.6
+
+Net "Key2_Ch6"
+Keyboard_2_Multiplexer.2
+Keyboard_2_PD_Resistors.2
+Keyboard_2_Connector.7
+
+Net "Key2_Ch7"
+Keyboard_2_Multiplexer.4
+Keyboard_2_PD_Resistors.3
+Keyboard_2_Connector.8
+
+Net "Key2_Com"
+Keyboard_2_Multiplexer.3
+ArdR1.7
+
+Net "MIDI_P4"
+MIDI_Jack.4
+R2.1
+
+Net "MIDI_P5"
+MIDI_Jack.5
+R1.1
+
+Net "Ped_Ch0"
+Pedalboard_PD_Resistors.7
+Pedalboard_Connector.1
+Pedalboard_Multiplexer.12
+
+Net "Ped_Ch1"
+Pedalboard_PD_Resistors.6
+Pedalboard_Connector.2
+Pedalboard_Multiplexer.11
+
+Net "Ped_Ch2"
+Pedalboard_PD_Resistors.5
+Pedalboard_Connector.3
+Pedalboard_Multiplexer.10
+
+Net "Ped_Ch3"
+Pedalboard_PD_Resistors.8
+Pedalboard_Connector.4
+Pedalboard_Multiplexer.13
+
+Net "Ped_Ch4"
+Pedalboard_Multiplexer.1
+Pedalboard_PD_Resistors.1
+Pedalboard_Connector.5
+
+Net "Ped_Ch5"
+Pedalboard_Multiplexer.5
+Pedalboard_PD_Resistors.4
+Pedalboard_Connector.6
+
+Net "Ped_Ch6"
+Pedalboard_Multiplexer.2
+Pedalboard_PD_Resistors.2
+Pedalboard_Connector.7
+
+Net "Ped_Ch7"
+Pedalboard_Multiplexer.4
+Pedalboard_PD_Resistors.3
+Pedalboard_Connector.8
+
+Net "Ped_Com"
+Pedalboard_Multiplexer.3
+ArdR1.8
+
+Net "Pot_1"
+ArdR1.22
+Expression_Pedal_Terminal.1
+
+Net "Pot_2"
+ArdR1.21
+Expression_Pedal_Terminal.2
+
+Net "Pot_3"
+ArdR1.20
+Expression_Pedal_Terminal.3
+
+Net "Pot_4"
+ArdR1.19
+Expression_Pedal_Terminal.4
+
+Net "Read_A"
+ArdR1.3
+Keyboard_1_Multiplexer.14
+Keyboard_2_Multiplexer.14
+Pedalboard_Multiplexer.14
+
+Net "Read_B"
+ArdR1.4
+Keyboard_1_Multiplexer.15
+Keyboard_2_Multiplexer.15
+Pedalboard_Multiplexer.15
+
+Net "Read_C"
+ArdR1.5
+Keyboard_1_Multiplexer.16
+Keyboard_2_Multiplexer.16
+Pedalboard_Multiplexer.16
+
+Net "Write_A"
+ArdR1.9
+Write_Multiplexer.14
+
+Net "Write_B"
+ArdR1.10
+Write_Multiplexer.15
+
+Net "Write_C"
+ArdR1.11
+Write_Multiplexer.16
+
+Net "Write_Ch0"
+Write_PD_Resistors.7
+Keyboard_1_Connector.16
+Keyboard_2_Connector.16
+Pedalboard_Connector.16
+Write_Multiplexer.12
+
+Net "Write_Ch1"
+Write_PD_Resistors.6
+Keyboard_1_Connector.15
+Keyboard_2_Connector.15
+Pedalboard_Connector.15
+Write_Multiplexer.11
+
+Net "Write_Ch2"
+Write_PD_Resistors.5
+Keyboard_1_Connector.14
+Keyboard_2_Connector.14
+Pedalboard_Connector.14
+Write_Multiplexer.10
+
+Net "Write_Ch3"
+Write_PD_Resistors.8
+Keyboard_1_Connector.13
+Keyboard_2_Connector.13
+Pedalboard_Connector.13
+Write_Multiplexer.13
+
+Net "Write_Ch4"
+Write_Multiplexer.1
+Write_PD_Resistors.1
+Keyboard_1_Connector.12
+Keyboard_2_Connector.12
+Pedalboard_Connector.12
+
+Net "Write_Ch5"
+Write_Multiplexer.5
+Write_PD_Resistors.4
+Keyboard_1_Connector.11
+Keyboard_2_Connector.11
+Pedalboard_Connector.11
+
+Net "Write_Ch6"
+Write_Multiplexer.2
+Write_PD_Resistors.2
+Keyboard_1_Connector.10
+Keyboard_2_Connector.10
+Pedalboard_Connector.10
+
+Net "Write_Ch7"
+Write_Multiplexer.4
+Write_PD_Resistors.3
+Keyboard_1_Connector.9
+Keyboard_2_Connector.9
+Pedalboard_Connector.9
+
+Net "Write_Com"
+Write_Multiplexer.3
+ArdR1.12
+

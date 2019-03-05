@@ -1,0 +1,21 @@
+Back Annotation Results Report
+------------------------------
+
+Report Written:     Wednesday, June 27, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         6/27/2018 6:09:33 PM
+Editing Time:       4620 min
+Units:              thou (precision 2)
+
+Back Annotate renames from the PCB design to all Schematic designs in project "MIDI Organ Eisentrager".
+
+Renamed Component from "J1" to "POWER" in design "Key Matrix Scanner.sch".
+Renamed Component from "J2" to "ANALOG" in design "Key Matrix Scanner.sch".
+Renamed Component from "J4" to "DIGITAL_1" in design "Key Matrix Scanner.sch".
+Renamed Component from "J3" to "DIGITAL_2" in design "Key Matrix Scanner.sch".
+
+
+End Of Report.

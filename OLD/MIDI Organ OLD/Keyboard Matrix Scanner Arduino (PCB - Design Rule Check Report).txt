@@ -1,0 +1,845 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Friday, February 16, 2018
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ\Keyboard Matrix Scanner Arduino.pcb
+Design Title:       
+Created:            2/15/2018 6:46:10 PM
+Last Saved:         2/16/2018 12:52:01 AM
+Editing Time:       349 min
+Units:              cm (precision 2)
+
+
+Results
+=======
+
+Pad to Pad error (P-P) at (41.31 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.1 (Net 'N0191') and Component Pad PedalboardMatrix1.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (41.36 55.14) and (41.36 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix1.1 (Net 'N0191') and Component Pad PedalboardMatrix1.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.54 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.2 (Net 'N0191') and Component Pad PedalboardMatrix1.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.79 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.3 (Net 'N0191') and Component Pad PedalboardMatrix1.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.04 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.4 (Net 'N0191') and Component Pad PedalboardMatrix1.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.29 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.5 (Net 'N0191') and Component Pad PedalboardMatrix1.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.54 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.6 (Net 'N0191') and Component Pad PedalboardMatrix1.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.79 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.7 (Net 'N0191') and Component Pad PedalboardMatrix1.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (43.04 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.8 (Net 'N0191') and Component Pad PedalboardMatrix1.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.34 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.9 (Net 'N0056') and Component Pad PedalboardMatrix1.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.59 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.10 (Net 'N0057') and Component Pad PedalboardMatrix1.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.84 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.11 (Net 'N0058') and Component Pad PedalboardMatrix1.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.09 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.12 (Net 'N0059') and Component Pad PedalboardMatrix1.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.34 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.13 (Net 'N0060') and Component Pad PedalboardMatrix1.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.59 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.14 (Net 'N0061') and Component Pad PedalboardMatrix1.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.84 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix1.15 (Net 'N0062') and Component Pad PedalboardMatrix1.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.11 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.1 (Net 'N0496') and Component Pad PedalboardMatrix2.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (44.15 55.14) and (44.15 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix2.1 (Net 'N0496') and Component Pad PedalboardMatrix2.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.33 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.2 (Net 'N0496') and Component Pad PedalboardMatrix2.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.58 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.3 (Net 'N0496') and Component Pad PedalboardMatrix2.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.83 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.4 (Net 'N0496') and Component Pad PedalboardMatrix2.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.08 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.5 (Net 'N0496') and Component Pad PedalboardMatrix2.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.33 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.6 (Net 'N0496') and Component Pad PedalboardMatrix2.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.58 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.7 (Net 'N0496') and Component Pad PedalboardMatrix2.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.83 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.8 (Net 'N0496') and Component Pad PedalboardMatrix2.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.13 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.9 (Net 'N0056') and Component Pad PedalboardMatrix2.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.38 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.10 (Net 'N0057') and Component Pad PedalboardMatrix2.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.63 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.11 (Net 'N0058') and Component Pad PedalboardMatrix2.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.88 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.12 (Net 'N0059') and Component Pad PedalboardMatrix2.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.13 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.13 (Net 'N0060') and Component Pad PedalboardMatrix2.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.38 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.14 (Net 'N0061') and Component Pad PedalboardMatrix2.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.63 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix2.15 (Net 'N0062') and Component Pad PedalboardMatrix2.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (46.90 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.1 (Net 'N0504') and Component Pad PedalboardMatrix3.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (46.95 55.14) and (46.95 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix3.1 (Net 'N0504') and Component Pad PedalboardMatrix3.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.13 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.2 (Net 'N0504') and Component Pad PedalboardMatrix3.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.38 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.3 (Net 'N0504') and Component Pad PedalboardMatrix3.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.63 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.4 (Net 'N0504') and Component Pad PedalboardMatrix3.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.88 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.5 (Net 'N0504') and Component Pad PedalboardMatrix3.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.13 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.6 (Net 'N0504') and Component Pad PedalboardMatrix3.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.38 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.7 (Net 'N0504') and Component Pad PedalboardMatrix3.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.63 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.8 (Net 'N0504') and Component Pad PedalboardMatrix3.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (46.92 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.9 (Net 'N0056') and Component Pad PedalboardMatrix3.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.17 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.10 (Net 'N0057') and Component Pad PedalboardMatrix3.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.42 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.11 (Net 'N0058') and Component Pad PedalboardMatrix3.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.67 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.12 (Net 'N0059') and Component Pad PedalboardMatrix3.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.92 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.13 (Net 'N0060') and Component Pad PedalboardMatrix3.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.17 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.14 (Net 'N0061') and Component Pad PedalboardMatrix3.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.42 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix3.15 (Net 'N0062') and Component Pad PedalboardMatrix3.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.70 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.1 (Net 'N0512') and Component Pad PedalboardMatrix4.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (49.74 55.14) and (49.74 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix4.1 (Net 'N0512') and Component Pad PedalboardMatrix4.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.92 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.2 (Net 'N0512') and Component Pad PedalboardMatrix4.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.17 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.3 (Net 'N0512') and Component Pad PedalboardMatrix4.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.42 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.4 (Net 'N0512') and Component Pad PedalboardMatrix4.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.67 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.5 (Net 'N0512') and Component Pad PedalboardMatrix4.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.92 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.6 (Net 'N0512') and Component Pad PedalboardMatrix4.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.17 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.7 (Net 'N0512') and Component Pad PedalboardMatrix4.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.42 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.8 (Net 'N0512') and Component Pad PedalboardMatrix4.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.72 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.9 (Net 'N0056') and Component Pad PedalboardMatrix4.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.97 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.10 (Net 'N0057') and Component Pad PedalboardMatrix4.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.22 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.11 (Net 'N0058') and Component Pad PedalboardMatrix4.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.47 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.12 (Net 'N0059') and Component Pad PedalboardMatrix4.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.72 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.13 (Net 'N0060') and Component Pad PedalboardMatrix4.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.97 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.14 (Net 'N0061') and Component Pad PedalboardMatrix4.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.22 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix4.15 (Net 'N0062') and Component Pad PedalboardMatrix4.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.49 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.1 (Net 'N0520') and Component Pad PedalboardMatrix5.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (52.53 55.14) and (52.53 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix5.1 (Net 'N0520') and Component Pad PedalboardMatrix5.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.71 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.2 (Net 'N0520') and Component Pad PedalboardMatrix5.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.96 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.3 (Net 'N0520') and Component Pad PedalboardMatrix5.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.21 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.4 (Net 'N0520') and Component Pad PedalboardMatrix5.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.46 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.5 (Net 'N0520') and Component Pad PedalboardMatrix5.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.71 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.6 (Net 'N0520') and Component Pad PedalboardMatrix5.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.96 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.7 (Net 'N0520') and Component Pad PedalboardMatrix5.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (54.21 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.8 (Net 'N0520') and Component Pad PedalboardMatrix5.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.51 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.9 (Net 'N0056') and Component Pad PedalboardMatrix5.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.76 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.10 (Net 'N0057') and Component Pad PedalboardMatrix5.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.01 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.11 (Net 'N0058') and Component Pad PedalboardMatrix5.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.26 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.12 (Net 'N0059') and Component Pad PedalboardMatrix5.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.51 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.13 (Net 'N0060') and Component Pad PedalboardMatrix5.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.76 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.14 (Net 'N0061') and Component Pad PedalboardMatrix5.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (54.01 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix5.15 (Net 'N0062') and Component Pad PedalboardMatrix5.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.28 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.1 (Net 'N0528') and Component Pad PedalboardMatrix6.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (55.33 55.14) and (55.33 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix6.1 (Net 'N0528') and Component Pad PedalboardMatrix6.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.51 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.2 (Net 'N0528') and Component Pad PedalboardMatrix6.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.76 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.3 (Net 'N0528') and Component Pad PedalboardMatrix6.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.01 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.4 (Net 'N0528') and Component Pad PedalboardMatrix6.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.26 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.5 (Net 'N0528') and Component Pad PedalboardMatrix6.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.51 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.6 (Net 'N0528') and Component Pad PedalboardMatrix6.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.76 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.7 (Net 'N0528') and Component Pad PedalboardMatrix6.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (57.01 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.8 (Net 'N0528') and Component Pad PedalboardMatrix6.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.31 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.9 (Net 'N0056') and Component Pad PedalboardMatrix6.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.56 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.10 (Net 'N0057') and Component Pad PedalboardMatrix6.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.81 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.11 (Net 'N0058') and Component Pad PedalboardMatrix6.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.06 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.12 (Net 'N0059') and Component Pad PedalboardMatrix6.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.31 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.13 (Net 'N0060') and Component Pad PedalboardMatrix6.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.56 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.14 (Net 'N0061') and Component Pad PedalboardMatrix6.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.81 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix6.15 (Net 'N0062') and Component Pad PedalboardMatrix6.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.08 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.1 (Net 'N0718') and Component Pad PedalboardMatrix7.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (58.12 55.14) and (58.12 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix7.1 (Net 'N0718') and Component Pad PedalboardMatrix7.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.30 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.2 (Net 'N0718') and Component Pad PedalboardMatrix7.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.55 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.3 (Net 'N0718') and Component Pad PedalboardMatrix7.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.80 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.4 (Net 'N0718') and Component Pad PedalboardMatrix7.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.05 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.5 (Net 'N0718') and Component Pad PedalboardMatrix7.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.30 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.6 (Net 'N0718') and Component Pad PedalboardMatrix7.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.55 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.7 (Net 'N0718') and Component Pad PedalboardMatrix7.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.80 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.8 (Net 'N0718') and Component Pad PedalboardMatrix7.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.10 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.9 (Net 'N0056') and Component Pad PedalboardMatrix7.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.35 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.10 (Net 'N0057') and Component Pad PedalboardMatrix7.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.60 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.11 (Net 'N0058') and Component Pad PedalboardMatrix7.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.85 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.12 (Net 'N0059') and Component Pad PedalboardMatrix7.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.10 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.13 (Net 'N0060') and Component Pad PedalboardMatrix7.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.35 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.14 (Net 'N0061') and Component Pad PedalboardMatrix7.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.60 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix7.15 (Net 'N0062') and Component Pad PedalboardMatrix7.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (60.87 55.14) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.1 (Net 'N0536') and Component Pad PedalboardMatrix8.9 (Net 'N0056'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (60.92 55.14) and (60.92 55.14) on Layer "[All]".
+    Error between Component Pad PedalboardMatrix8.1 (Net 'N0536') and Component Pad PedalboardMatrix8.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.10 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.2 (Net 'N0536') and Component Pad PedalboardMatrix8.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.35 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.3 (Net 'N0536') and Component Pad PedalboardMatrix8.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.60 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.4 (Net 'N0536') and Component Pad PedalboardMatrix8.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.85 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.5 (Net 'N0536') and Component Pad PedalboardMatrix8.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.10 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.6 (Net 'N0536') and Component Pad PedalboardMatrix8.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.35 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.7 (Net 'N0536') and Component Pad PedalboardMatrix8.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.60 55.12) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.8 (Net 'N0536') and Component Pad PedalboardMatrix8.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (60.89 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.9 (Net 'N0056') and Component Pad PedalboardMatrix8.10 (Net 'N0057'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.14 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.10 (Net 'N0057') and Component Pad PedalboardMatrix8.11 (Net 'N0058'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.39 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.11 (Net 'N0058') and Component Pad PedalboardMatrix8.12 (Net 'N0059'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.64 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.12 (Net 'N0059') and Component Pad PedalboardMatrix8.13 (Net 'N0060'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.89 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.13 (Net 'N0060') and Component Pad PedalboardMatrix8.14 (Net 'N0061'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.14 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.14 (Net 'N0061') and Component Pad PedalboardMatrix8.15 (Net 'N0062'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.39 55.32) on layer "[All]".
+    Error between Component Pad PedalboardMatrix8.15 (Net 'N0062') and Component Pad PedalboardMatrix8.16 (Net 'N0063'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.31 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.1 (Net 'N0191') and Component Pad Keyboard2Matrix1.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (41.36 58.44) and (41.36 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.1 (Net 'N0191') and Component Pad Keyboard2Matrix1.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.54 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.2 (Net 'N0191') and Component Pad Keyboard2Matrix1.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.79 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.3 (Net 'N0191') and Component Pad Keyboard2Matrix1.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.04 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.4 (Net 'N0191') and Component Pad Keyboard2Matrix1.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.29 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.5 (Net 'N0191') and Component Pad Keyboard2Matrix1.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.54 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.6 (Net 'N0191') and Component Pad Keyboard2Matrix1.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.79 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.7 (Net 'N0191') and Component Pad Keyboard2Matrix1.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (43.04 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.8 (Net 'N0191') and Component Pad Keyboard2Matrix1.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.34 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.9 (Net 'N0352') and Component Pad Keyboard2Matrix1.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.59 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.10 (Net 'N0353') and Component Pad Keyboard2Matrix1.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.84 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.11 (Net 'N0042') and Component Pad Keyboard2Matrix1.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.09 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.12 (Net 'N0355') and Component Pad Keyboard2Matrix1.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.34 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.13 (Net 'N0356') and Component Pad Keyboard2Matrix1.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.59 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.14 (Net 'N0357') and Component Pad Keyboard2Matrix1.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.84 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix1.15 (Net 'N0046') and Component Pad Keyboard2Matrix1.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.11 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.1 (Net 'N0496') and Component Pad Keyboard2Matrix2.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (44.15 58.44) and (44.15 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.1 (Net 'N0496') and Component Pad Keyboard2Matrix2.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.33 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.2 (Net 'N0496') and Component Pad Keyboard2Matrix2.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.58 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.3 (Net 'N0496') and Component Pad Keyboard2Matrix2.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.83 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.4 (Net 'N0496') and Component Pad Keyboard2Matrix2.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.08 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.5 (Net 'N0496') and Component Pad Keyboard2Matrix2.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.33 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.6 (Net 'N0496') and Component Pad Keyboard2Matrix2.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.58 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.7 (Net 'N0496') and Component Pad Keyboard2Matrix2.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.83 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.8 (Net 'N0496') and Component Pad Keyboard2Matrix2.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.13 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.9 (Net 'N0352') and Component Pad Keyboard2Matrix2.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.38 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.10 (Net 'N0353') and Component Pad Keyboard2Matrix2.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.63 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.11 (Net 'N0042') and Component Pad Keyboard2Matrix2.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.88 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.12 (Net 'N0355') and Component Pad Keyboard2Matrix2.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.13 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.13 (Net 'N0356') and Component Pad Keyboard2Matrix2.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.38 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.14 (Net 'N0357') and Component Pad Keyboard2Matrix2.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.63 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix2.15 (Net 'N0046') and Component Pad Keyboard2Matrix2.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (46.90 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.1 (Net 'N0504') and Component Pad Keyboard2Matrix3.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (46.95 58.44) and (46.95 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.1 (Net 'N0504') and Component Pad Keyboard2Matrix3.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.13 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.2 (Net 'N0504') and Component Pad Keyboard2Matrix3.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.38 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.3 (Net 'N0504') and Component Pad Keyboard2Matrix3.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.63 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.4 (Net 'N0504') and Component Pad Keyboard2Matrix3.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.88 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.5 (Net 'N0504') and Component Pad Keyboard2Matrix3.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.13 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.6 (Net 'N0504') and Component Pad Keyboard2Matrix3.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.38 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.7 (Net 'N0504') and Component Pad Keyboard2Matrix3.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.63 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.8 (Net 'N0504') and Component Pad Keyboard2Matrix3.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (46.92 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.9 (Net 'N0352') and Component Pad Keyboard2Matrix3.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.17 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.10 (Net 'N0353') and Component Pad Keyboard2Matrix3.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.42 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.11 (Net 'N0042') and Component Pad Keyboard2Matrix3.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.67 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.12 (Net 'N0355') and Component Pad Keyboard2Matrix3.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.92 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.13 (Net 'N0356') and Component Pad Keyboard2Matrix3.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.17 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.14 (Net 'N0357') and Component Pad Keyboard2Matrix3.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.42 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix3.15 (Net 'N0046') and Component Pad Keyboard2Matrix3.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.70 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.1 (Net 'N0512') and Component Pad Keyboard2Matrix4.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (49.74 58.44) and (49.74 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.1 (Net 'N0512') and Component Pad Keyboard2Matrix4.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.92 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.2 (Net 'N0512') and Component Pad Keyboard2Matrix4.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.17 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.3 (Net 'N0512') and Component Pad Keyboard2Matrix4.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.42 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.4 (Net 'N0512') and Component Pad Keyboard2Matrix4.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.67 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.5 (Net 'N0512') and Component Pad Keyboard2Matrix4.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.92 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.6 (Net 'N0512') and Component Pad Keyboard2Matrix4.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.17 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.7 (Net 'N0512') and Component Pad Keyboard2Matrix4.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.42 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.8 (Net 'N0512') and Component Pad Keyboard2Matrix4.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.72 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.9 (Net 'N0352') and Component Pad Keyboard2Matrix4.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.97 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.10 (Net 'N0353') and Component Pad Keyboard2Matrix4.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.22 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.11 (Net 'N0042') and Component Pad Keyboard2Matrix4.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.47 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.12 (Net 'N0355') and Component Pad Keyboard2Matrix4.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.72 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.13 (Net 'N0356') and Component Pad Keyboard2Matrix4.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.97 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.14 (Net 'N0357') and Component Pad Keyboard2Matrix4.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.22 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix4.15 (Net 'N0046') and Component Pad Keyboard2Matrix4.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.49 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.1 (Net 'N0520') and Component Pad Keyboard2Matrix5.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (52.53 58.44) and (52.53 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.1 (Net 'N0520') and Component Pad Keyboard2Matrix5.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.71 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.2 (Net 'N0520') and Component Pad Keyboard2Matrix5.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.96 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.3 (Net 'N0520') and Component Pad Keyboard2Matrix5.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.21 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.4 (Net 'N0520') and Component Pad Keyboard2Matrix5.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.46 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.5 (Net 'N0520') and Component Pad Keyboard2Matrix5.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.71 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.6 (Net 'N0520') and Component Pad Keyboard2Matrix5.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.96 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.7 (Net 'N0520') and Component Pad Keyboard2Matrix5.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (54.21 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.8 (Net 'N0520') and Component Pad Keyboard2Matrix5.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.51 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.9 (Net 'N0352') and Component Pad Keyboard2Matrix5.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.76 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.10 (Net 'N0353') and Component Pad Keyboard2Matrix5.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.01 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.11 (Net 'N0042') and Component Pad Keyboard2Matrix5.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.26 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.12 (Net 'N0355') and Component Pad Keyboard2Matrix5.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.51 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.13 (Net 'N0356') and Component Pad Keyboard2Matrix5.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.76 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.14 (Net 'N0357') and Component Pad Keyboard2Matrix5.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (54.01 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix5.15 (Net 'N0046') and Component Pad Keyboard2Matrix5.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.28 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.1 (Net 'N0528') and Component Pad Keyboard2Matrix6.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (55.33 58.44) and (55.33 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.1 (Net 'N0528') and Component Pad Keyboard2Matrix6.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.51 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.2 (Net 'N0528') and Component Pad Keyboard2Matrix6.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.76 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.3 (Net 'N0528') and Component Pad Keyboard2Matrix6.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.01 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.4 (Net 'N0528') and Component Pad Keyboard2Matrix6.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.26 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.5 (Net 'N0528') and Component Pad Keyboard2Matrix6.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.51 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.6 (Net 'N0528') and Component Pad Keyboard2Matrix6.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.76 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.7 (Net 'N0528') and Component Pad Keyboard2Matrix6.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (57.01 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.8 (Net 'N0528') and Component Pad Keyboard2Matrix6.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.31 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.9 (Net 'N0352') and Component Pad Keyboard2Matrix6.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.56 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.10 (Net 'N0353') and Component Pad Keyboard2Matrix6.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.81 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.11 (Net 'N0042') and Component Pad Keyboard2Matrix6.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.06 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.12 (Net 'N0355') and Component Pad Keyboard2Matrix6.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.31 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.13 (Net 'N0356') and Component Pad Keyboard2Matrix6.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.56 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.14 (Net 'N0357') and Component Pad Keyboard2Matrix6.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.81 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix6.15 (Net 'N0046') and Component Pad Keyboard2Matrix6.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.08 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.1 (Net 'N0718') and Component Pad Keyboard2Matrix7.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (58.12 58.44) and (58.12 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.1 (Net 'N0718') and Component Pad Keyboard2Matrix7.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.30 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.2 (Net 'N0718') and Component Pad Keyboard2Matrix7.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.55 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.3 (Net 'N0718') and Component Pad Keyboard2Matrix7.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.80 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.4 (Net 'N0718') and Component Pad Keyboard2Matrix7.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.05 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.5 (Net 'N0718') and Component Pad Keyboard2Matrix7.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.30 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.6 (Net 'N0718') and Component Pad Keyboard2Matrix7.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.55 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.7 (Net 'N0718') and Component Pad Keyboard2Matrix7.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.80 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.8 (Net 'N0718') and Component Pad Keyboard2Matrix7.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.10 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.9 (Net 'N0352') and Component Pad Keyboard2Matrix7.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.35 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.10 (Net 'N0353') and Component Pad Keyboard2Matrix7.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.60 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.11 (Net 'N0042') and Component Pad Keyboard2Matrix7.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.85 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.12 (Net 'N0355') and Component Pad Keyboard2Matrix7.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.10 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.13 (Net 'N0356') and Component Pad Keyboard2Matrix7.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.35 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.14 (Net 'N0357') and Component Pad Keyboard2Matrix7.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.60 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix7.15 (Net 'N0046') and Component Pad Keyboard2Matrix7.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (60.87 58.44) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.1 (Net 'N0536') and Component Pad Keyboard2Matrix8.9 (Net 'N0352'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (60.92 58.44) and (60.92 58.44) on Layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.1 (Net 'N0536') and Component Pad Keyboard2Matrix8.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.10 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.2 (Net 'N0536') and Component Pad Keyboard2Matrix8.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.35 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.3 (Net 'N0536') and Component Pad Keyboard2Matrix8.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.60 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.4 (Net 'N0536') and Component Pad Keyboard2Matrix8.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.85 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.5 (Net 'N0536') and Component Pad Keyboard2Matrix8.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.10 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.6 (Net 'N0536') and Component Pad Keyboard2Matrix8.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.35 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.7 (Net 'N0536') and Component Pad Keyboard2Matrix8.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.60 58.42) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.8 (Net 'N0536') and Component Pad Keyboard2Matrix8.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (60.89 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.9 (Net 'N0352') and Component Pad Keyboard2Matrix8.10 (Net 'N0353'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.14 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.10 (Net 'N0353') and Component Pad Keyboard2Matrix8.11 (Net 'N0042'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.39 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.11 (Net 'N0042') and Component Pad Keyboard2Matrix8.12 (Net 'N0355'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.64 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.12 (Net 'N0355') and Component Pad Keyboard2Matrix8.13 (Net 'N0356'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.89 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.13 (Net 'N0356') and Component Pad Keyboard2Matrix8.14 (Net 'N0357'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.14 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.14 (Net 'N0357') and Component Pad Keyboard2Matrix8.15 (Net 'N0046'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.39 58.62) on layer "[All]".
+    Error between Component Pad Keyboard2Matrix8.15 (Net 'N0046') and Component Pad Keyboard2Matrix8.16 (Net 'N0047'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.31 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.1 (Net 'N0191') and Component Pad Keyboard1Matrix1.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (41.36 60.79) and (41.36 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.1 (Net 'N0191') and Component Pad Keyboard1Matrix1.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.54 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.2 (Net 'N0191') and Component Pad Keyboard1Matrix1.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.79 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.3 (Net 'N0191') and Component Pad Keyboard1Matrix1.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.04 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.4 (Net 'N0191') and Component Pad Keyboard1Matrix1.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.29 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.5 (Net 'N0191') and Component Pad Keyboard1Matrix1.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.54 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.6 (Net 'N0191') and Component Pad Keyboard1Matrix1.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.79 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.7 (Net 'N0191') and Component Pad Keyboard1Matrix1.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (43.04 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.8 (Net 'N0191') and Component Pad Keyboard1Matrix1.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.34 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.9 (Net 'N0562') and Component Pad Keyboard1Matrix1.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.59 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.10 (Net 'N0548') and Component Pad Keyboard1Matrix1.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (41.84 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.11 (Net 'N0549') and Component Pad Keyboard1Matrix1.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.09 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.12 (Net 'N0033') and Component Pad Keyboard1Matrix1.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.34 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.13 (Net 'N0551') and Component Pad Keyboard1Matrix1.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.59 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.14 (Net 'N0035') and Component Pad Keyboard1Matrix1.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (42.84 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix1.15 (Net 'N0036') and Component Pad Keyboard1Matrix1.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.11 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.1 (Net 'N0496') and Component Pad Keyboard1Matrix2.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (44.15 60.79) and (44.15 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.1 (Net 'N0496') and Component Pad Keyboard1Matrix2.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.33 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.2 (Net 'N0496') and Component Pad Keyboard1Matrix2.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.58 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.3 (Net 'N0496') and Component Pad Keyboard1Matrix2.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.83 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.4 (Net 'N0496') and Component Pad Keyboard1Matrix2.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.08 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.5 (Net 'N0496') and Component Pad Keyboard1Matrix2.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.33 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.6 (Net 'N0496') and Component Pad Keyboard1Matrix2.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.58 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.7 (Net 'N0496') and Component Pad Keyboard1Matrix2.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.83 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.8 (Net 'N0496') and Component Pad Keyboard1Matrix2.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.13 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.9 (Net 'N0562') and Component Pad Keyboard1Matrix2.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.38 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.10 (Net 'N0548') and Component Pad Keyboard1Matrix2.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.63 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.11 (Net 'N0549') and Component Pad Keyboard1Matrix2.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (44.88 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.12 (Net 'N0033') and Component Pad Keyboard1Matrix2.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.13 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.13 (Net 'N0551') and Component Pad Keyboard1Matrix2.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.38 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.14 (Net 'N0035') and Component Pad Keyboard1Matrix2.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (45.63 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix2.15 (Net 'N0036') and Component Pad Keyboard1Matrix2.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (46.90 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.1 (Net 'N0504') and Component Pad Keyboard1Matrix3.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (46.95 60.79) and (46.95 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.1 (Net 'N0504') and Component Pad Keyboard1Matrix3.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.13 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.2 (Net 'N0504') and Component Pad Keyboard1Matrix3.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.38 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.3 (Net 'N0504') and Component Pad Keyboard1Matrix3.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.63 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.4 (Net 'N0504') and Component Pad Keyboard1Matrix3.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.88 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.5 (Net 'N0504') and Component Pad Keyboard1Matrix3.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.13 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.6 (Net 'N0504') and Component Pad Keyboard1Matrix3.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.38 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.7 (Net 'N0504') and Component Pad Keyboard1Matrix3.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.63 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.8 (Net 'N0504') and Component Pad Keyboard1Matrix3.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (46.92 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.9 (Net 'N0562') and Component Pad Keyboard1Matrix3.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.17 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.10 (Net 'N0548') and Component Pad Keyboard1Matrix3.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.42 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.11 (Net 'N0549') and Component Pad Keyboard1Matrix3.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.67 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.12 (Net 'N0033') and Component Pad Keyboard1Matrix3.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (47.92 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.13 (Net 'N0551') and Component Pad Keyboard1Matrix3.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.17 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.14 (Net 'N0035') and Component Pad Keyboard1Matrix3.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (48.42 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix3.15 (Net 'N0036') and Component Pad Keyboard1Matrix3.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.70 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.1 (Net 'N0512') and Component Pad Keyboard1Matrix4.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (49.74 60.79) and (49.74 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.1 (Net 'N0512') and Component Pad Keyboard1Matrix4.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.92 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.2 (Net 'N0512') and Component Pad Keyboard1Matrix4.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.17 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.3 (Net 'N0512') and Component Pad Keyboard1Matrix4.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.42 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.4 (Net 'N0512') and Component Pad Keyboard1Matrix4.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.67 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.5 (Net 'N0512') and Component Pad Keyboard1Matrix4.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.92 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.6 (Net 'N0512') and Component Pad Keyboard1Matrix4.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.17 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.7 (Net 'N0512') and Component Pad Keyboard1Matrix4.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.42 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.8 (Net 'N0512') and Component Pad Keyboard1Matrix4.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.72 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.9 (Net 'N0562') and Component Pad Keyboard1Matrix4.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (49.97 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.10 (Net 'N0548') and Component Pad Keyboard1Matrix4.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.22 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.11 (Net 'N0549') and Component Pad Keyboard1Matrix4.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.47 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.12 (Net 'N0033') and Component Pad Keyboard1Matrix4.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.72 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.13 (Net 'N0551') and Component Pad Keyboard1Matrix4.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (50.97 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.14 (Net 'N0035') and Component Pad Keyboard1Matrix4.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (51.22 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix4.15 (Net 'N0036') and Component Pad Keyboard1Matrix4.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.49 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.1 (Net 'N0520') and Component Pad Keyboard1Matrix5.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (52.53 60.79) and (52.53 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.1 (Net 'N0520') and Component Pad Keyboard1Matrix5.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.71 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.2 (Net 'N0520') and Component Pad Keyboard1Matrix5.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.96 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.3 (Net 'N0520') and Component Pad Keyboard1Matrix5.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.21 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.4 (Net 'N0520') and Component Pad Keyboard1Matrix5.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.46 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.5 (Net 'N0520') and Component Pad Keyboard1Matrix5.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.71 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.6 (Net 'N0520') and Component Pad Keyboard1Matrix5.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.96 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.7 (Net 'N0520') and Component Pad Keyboard1Matrix5.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (54.21 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.8 (Net 'N0520') and Component Pad Keyboard1Matrix5.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.51 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.9 (Net 'N0562') and Component Pad Keyboard1Matrix5.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (52.76 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.10 (Net 'N0548') and Component Pad Keyboard1Matrix5.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.01 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.11 (Net 'N0549') and Component Pad Keyboard1Matrix5.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.26 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.12 (Net 'N0033') and Component Pad Keyboard1Matrix5.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.51 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.13 (Net 'N0551') and Component Pad Keyboard1Matrix5.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (53.76 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.14 (Net 'N0035') and Component Pad Keyboard1Matrix5.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (54.01 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix5.15 (Net 'N0036') and Component Pad Keyboard1Matrix5.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.28 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.1 (Net 'N0528') and Component Pad Keyboard1Matrix6.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (55.33 60.79) and (55.33 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.1 (Net 'N0528') and Component Pad Keyboard1Matrix6.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.51 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.2 (Net 'N0528') and Component Pad Keyboard1Matrix6.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.76 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.3 (Net 'N0528') and Component Pad Keyboard1Matrix6.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.01 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.4 (Net 'N0528') and Component Pad Keyboard1Matrix6.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.26 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.5 (Net 'N0528') and Component Pad Keyboard1Matrix6.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.51 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.6 (Net 'N0528') and Component Pad Keyboard1Matrix6.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.76 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.7 (Net 'N0528') and Component Pad Keyboard1Matrix6.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (57.01 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.8 (Net 'N0528') and Component Pad Keyboard1Matrix6.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.31 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.9 (Net 'N0562') and Component Pad Keyboard1Matrix6.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.56 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.10 (Net 'N0548') and Component Pad Keyboard1Matrix6.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (55.81 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.11 (Net 'N0549') and Component Pad Keyboard1Matrix6.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.06 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.12 (Net 'N0033') and Component Pad Keyboard1Matrix6.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.31 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.13 (Net 'N0551') and Component Pad Keyboard1Matrix6.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.56 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.14 (Net 'N0035') and Component Pad Keyboard1Matrix6.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (56.81 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix6.15 (Net 'N0036') and Component Pad Keyboard1Matrix6.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.08 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.1 (Net 'N0718') and Component Pad Keyboard1Matrix7.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (58.12 60.79) and (58.12 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.1 (Net 'N0718') and Component Pad Keyboard1Matrix7.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.30 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.2 (Net 'N0718') and Component Pad Keyboard1Matrix7.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.55 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.3 (Net 'N0718') and Component Pad Keyboard1Matrix7.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.80 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.4 (Net 'N0718') and Component Pad Keyboard1Matrix7.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.05 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.5 (Net 'N0718') and Component Pad Keyboard1Matrix7.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.30 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.6 (Net 'N0718') and Component Pad Keyboard1Matrix7.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.55 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.7 (Net 'N0718') and Component Pad Keyboard1Matrix7.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.80 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.8 (Net 'N0718') and Component Pad Keyboard1Matrix7.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.10 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.9 (Net 'N0562') and Component Pad Keyboard1Matrix7.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.35 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.10 (Net 'N0548') and Component Pad Keyboard1Matrix7.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.60 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.11 (Net 'N0549') and Component Pad Keyboard1Matrix7.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (58.85 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.12 (Net 'N0033') and Component Pad Keyboard1Matrix7.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.10 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.13 (Net 'N0551') and Component Pad Keyboard1Matrix7.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.35 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.14 (Net 'N0035') and Component Pad Keyboard1Matrix7.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (59.60 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix7.15 (Net 'N0036') and Component Pad Keyboard1Matrix7.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (60.87 60.79) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.1 (Net 'N0536') and Component Pad Keyboard1Matrix8.9 (Net 'N0562'), Gap is 0.00 needs to be 0.03.
+Pad to Pad Error (P-P) between (60.92 60.79) and (60.92 60.79) on Layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.1 (Net 'N0536') and Component Pad Keyboard1Matrix8.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.10 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.2 (Net 'N0536') and Component Pad Keyboard1Matrix8.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.35 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.3 (Net 'N0536') and Component Pad Keyboard1Matrix8.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.60 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.4 (Net 'N0536') and Component Pad Keyboard1Matrix8.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.85 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.5 (Net 'N0536') and Component Pad Keyboard1Matrix8.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.10 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.6 (Net 'N0536') and Component Pad Keyboard1Matrix8.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.35 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.7 (Net 'N0536') and Component Pad Keyboard1Matrix8.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.60 60.77) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.8 (Net 'N0536') and Component Pad Keyboard1Matrix8.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (60.89 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.9 (Net 'N0562') and Component Pad Keyboard1Matrix8.10 (Net 'N0548'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.14 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.10 (Net 'N0548') and Component Pad Keyboard1Matrix8.11 (Net 'N0549'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.39 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.11 (Net 'N0549') and Component Pad Keyboard1Matrix8.12 (Net 'N0033'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.64 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.12 (Net 'N0033') and Component Pad Keyboard1Matrix8.13 (Net 'N0551'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (61.89 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.13 (Net 'N0551') and Component Pad Keyboard1Matrix8.14 (Net 'N0035'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.14 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.14 (Net 'N0035') and Component Pad Keyboard1Matrix8.15 (Net 'N0036'), Gap is 0.00 needs to be 0.03.
+Pad to Pad error (P-P) at (62.39 60.97) on layer "[All]".
+    Error between Component Pad Keyboard1Matrix8.15 (Net 'N0036') and Component Pad Keyboard1Matrix8.16 (Net 'N0037'), Gap is 0.00 needs to be 0.03.
+Drill Hole to Drill Hole Error (D-D) between (42.96 59.75) and (42.93 59.75) on Layer "[All]".
+Drill Hole to Drill Hole error (D-D) at (39.24 56.77) on layer "[All]".
+Drill Hole to Drill Hole error (D-D) at (39.12 56.52) on layer "[All]".
+Drill Hole to Drill Hole error (D-D) at (39.37 57.02) on layer "[All]".
+Component to Board error (Cm-B) at (18.48 42.93) on layer "[Top]".
+    arduinoPins2to7.
+Component to Board error (Cm-B) at (16.19 42.93) on layer "[Top]".
+    arduinoPowerPins.
+Component to Board error (Cm-B) at (20.76 42.93) on layer "[Top]".
+    arduinoPinsA0toA4.
+Component to Board error (Cm-B) at (22.48 42.93) on layer "[Top]".
+    arduinoPins8to11.
+Component to Board error (Cm-B) at (24.77 42.93) on layer "[Top]".
+    expPedalPots.
+
+Number of errors found : 393
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

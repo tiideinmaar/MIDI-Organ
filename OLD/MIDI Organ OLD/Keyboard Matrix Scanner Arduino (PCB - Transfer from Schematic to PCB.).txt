@@ -1,0 +1,14 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Thursday, February 15, 2018
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ\Keyboard Matrix Scanner Arduino.pcb
+Design Title:       
+Created:            2/15/2018 6:46:10 PM
+Last Saved:         2/15/2018 6:46:49 PM
+Editing Time:       0 min
+Units:              cm (precision 2)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

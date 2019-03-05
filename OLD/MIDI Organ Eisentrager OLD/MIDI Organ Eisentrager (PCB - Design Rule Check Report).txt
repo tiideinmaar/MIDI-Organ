@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Wednesday, June 20, 2018
+Project Path:       C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.prj
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.pcb
+Design Title:       
+Created:            6/6/2018 12:31:13 AM
+Last Saved:         6/20/2018 7:27:44 PM
+Editing Time:       4512 min
+Units:              thou (precision 2)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

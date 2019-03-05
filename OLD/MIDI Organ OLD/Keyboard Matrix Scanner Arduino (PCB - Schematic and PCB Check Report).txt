@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, February 16, 2018
+Design Path:        C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ\Keyboard Matrix Scanner Arduino.pcb
+Design Title:       
+Created:            2/15/2018 6:46:10 PM
+Last Saved:         2/16/2018 12:31:57 AM
+Editing Time:       328 min
+Units:              cm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ\Keyboard Matrix Scanner Arduino.sch" with PCB "C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ\Keyboard Matrix Scanner Arduino.pcb"
+====================================================================================================================================================================================================================================================
+
+The designs are the same.
+
+
+End Of Report.

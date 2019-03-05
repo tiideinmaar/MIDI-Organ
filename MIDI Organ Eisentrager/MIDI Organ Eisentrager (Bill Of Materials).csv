@@ -1,0 +1,33 @@
+Report Written:,"Wednesday, June 20, 2018",,,,,,,,
+Project Path:,C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.prj,,,,,,,,
+Design Path:,C:\Users\tiideinmaar\Documents\DesignSpark Documents\MIDI Organ Eisentrager\MIDI Organ Eisentrager.pcb,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,6/6/2018 12:31:13 AM,,,,,,,,
+Last Saved:,6/20/2018 7:15:00 PM,,,,,,,,
+Editing Time:,4509 min,,,,,,,,
+Units:,thou (precision 2),,,,,,,,
+,,,,,,,,,
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
+ANALOG,1,6Pin Header,,HDRV8W90P0X254_1X8_2032X249X56,Molex,90120-0768,1671900,,"8 way single row straight header Molex C-GRID III Series, Series Number 90120, 2.54mm Pitch 8 Way 1 Row Straight Pin Header, Through Hole"
+DIGITAL_1,1,10pin header,,HDRV8W90P0X254_1X8_2032X249X56,Molex,90120-0768,1671900,,"8 way single row straight header Molex C-GRID III Series, Series Number 90120, 2.54mm Pitch 8 Way 1 Row Straight Pin Header, Through Hole"
+Keyboard_1_PD_Resistors,1,4116R-1-103LF,,DIP787W49P254L2197H469Q16N,Bourns,4116R-1-103LF,5223113P,,"Bourns Isolated Resistor Array 10k 2% 8 Resistors, 2.25W Total, DIP package 4100R Through Hole"
+Keyboard_2_PD_Resistors,1,4116R-1-103LF,,DIP787W49P254L2197H469Q16N,Bourns,4116R-1-103LF,5223113P,,"Bourns Isolated Resistor Array 10k 2% 8 Resistors, 2.25W Total, DIP package 4100R Through Hole"
+Pedalboard_PD_Resistors,1,4116R-1-103LF,,DIP787W49P254L2197H469Q16N,Bourns,4116R-1-103LF,5223113P,,"Bourns Isolated Resistor Array 10k 2% 8 Resistors, 2.25W Total, DIP package 4100R Through Hole"
+Write_PD_Resistors,1,4116R-1-103LF,,DIP787W49P254L2197H469Q16N,Bourns,4116R-1-103LF,5223113P,,"Bourns Isolated Resistor Array 10k 2% 8 Resistors, 2.25W Total, DIP package 4100R Through Hole"
+Keyboard_1_Connector,1,30316-6002HB,,3M-30316-6002HB,3M,30316-6002HB,8273578,,Low Profile Header
+Keyboard_2_Connector,1,30316-6002HB,,3M-30316-6002HB,3M,30316-6002HB,8273578,,Low Profile Header
+Pedalboard_Connector,1,30316-6002HB,,3M-30316-6002HB,3M,30316-6002HB,8273578,,Low Profile Header
+POWER,1,90120-0768,,HDRV8W90P0X254_1X8_2032X249X56,Molex,90120-0768,1671900,,"8 way single row straight header Molex C-GRID III Series, Series Number 90120, 2.54mm Pitch 8 Way 1 Row Straight Pin Header, Through Hole"
+DIGITAL_2,1,90120-0768,,HDRV8W90P0X254_1X8_2032X249X56,Molex,90120-0768,1671900,,"8 way single row straight header Molex C-GRID III Series, Series Number 90120, 2.54mm Pitch 8 Way 1 Row Straight Pin Header, Through Hole"
+Keyboard_1_Multiplexer,1,CD4051BE,,DIP254P762X508-16,Texas Instruments,CD4051BE,,,CMOS Single 8-Channel Analog Multiplexer/Demultiplexer with Logic-Level Conversion
+Keyboard_2_Multiplexer,1,CD4051BE,,DIP254P762X508-16,Texas Instruments,CD4051BE,,,CMOS Single 8-Channel Analog Multiplexer/Demultiplexer with Logic-Level Conversion
+Pedalboard_Multiplexer,1,CD4051BE,,DIP254P762X508-16,Texas Instruments,CD4051BE,,,CMOS Single 8-Channel Analog Multiplexer/Demultiplexer with Logic-Level Conversion
+Write_Multiplexer,1,CD4051BE,,DIP254P762X508-16,Texas Instruments,CD4051BE,,,CMOS Single 8-Channel Analog Multiplexer/Demultiplexer with Logic-Level Conversion
+R1,1,ERG12SJ222,,RESAD1602W115L642D240,Panasonic,ERG12SJ222,,,"PANASONIC ELECTRONIC COMPONENTS - ERG12SJ222 - RESISTOR METAL OXIDE, 2.2KOHM, 5%, AXIAL"
+R2,1,ERG12SJ222,,RESAD1602W115L642D240,Panasonic,ERG12SJ222,,,"PANASONIC ELECTRONIC COMPONENTS - ERG12SJ222 - RESISTOR METAL OXIDE, 2.2KOHM, 5%, AXIAL"
+MIDI_Jack,1,SDS-50J,,SDS-50J,CUI,SDS-50J,,,"Circular DIN Connectors DIN, 5P jack, rt, through hole, 180 degree pin arrangement"
+Expression_Pedal_Terminal,1,TE 6p Screwless Terminal,,Through-Hole,TE Connectivity,1-2834016-6,,,"Screwless Terminal, 6 Position"
