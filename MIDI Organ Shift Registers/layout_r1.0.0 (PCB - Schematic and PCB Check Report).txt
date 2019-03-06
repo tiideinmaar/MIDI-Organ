@@ -6,8 +6,8 @@ Project Path:       C:\Users\tiideinmaar\Documents\GitHub\MIDI-Organ\MIDI Organ 
 Design Path:        C:\Users\tiideinmaar\Documents\GitHub\MIDI-Organ\MIDI Organ Shift Registers\layout_r1.0.0.pcb
 Design Title:       
 Created:            3/5/2019 8:43:13 AM
-Last Saved:         3/5/2019 12:27:40 PM
-Editing Time:       281 min
+Last Saved:         3/5/2019 6:02:57 PM
+Editing Time:       299 min
 Units:              thou (precision 2)
 
 
